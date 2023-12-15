@@ -11,7 +11,7 @@ github_repo: "https://github.com/aiyinsitan12/aiyinsitan12.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
+sidebar-about-description: "飞天的大飞机"
 sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
